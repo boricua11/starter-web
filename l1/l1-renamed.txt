@@ -7,8 +7,10 @@ simple-changes
 real-work
 master-changes
 
+master changes conflict
+
 master1
 myfeature1
 
 
-Adding changes before rebasing conflicts.
+Conflicting changes in master
