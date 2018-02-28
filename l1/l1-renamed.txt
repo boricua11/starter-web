@@ -7,7 +7,7 @@ simple-changes
 real-work
 master-changes
 
-master/bigtrouble changes conflict
+changes after rebase conflict
 
 master1
 myfeature1
