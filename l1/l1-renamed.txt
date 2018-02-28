@@ -8,6 +8,7 @@ real-work
 master-changes
 
 remote change
+changes before merge from github
 
 master1
 myfeature1
