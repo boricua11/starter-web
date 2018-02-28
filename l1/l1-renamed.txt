@@ -9,3 +9,6 @@ master-changes
 
 master1
 myfeature1
+
+
+Adding changes before rebasing conflicts.
