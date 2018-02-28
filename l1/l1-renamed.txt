@@ -7,7 +7,7 @@ simple-changes
 real-work
 master-changes
 
-changes after rebase conflict
+remote change
 
 master1
 myfeature1
